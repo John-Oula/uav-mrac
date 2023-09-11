@@ -23,3 +23,11 @@ as the numerical solution to those differential equations to describe the dynami
 \
 Use `simu_plot` to plot the results of simulation. The simulation results are showed in the following
 figures.
+
+
+## UAV output for Γ=diag{5, 5} and γ=diag{1, 1}
+<img  width="569" alt="image" src="https://github.com/John-Oula/uav-mrac/assets/44803250/b0a81138-e756-4401-9b56-bc879f176bb4">
+
+<img width="577" alt="image" src="https://github.com/John-Oula/uav-mrac/assets/44803250/242c3fbb-6bf7-42fd-a317-08d5afbbd20a">
+
+A non-smooth reference forward velocity trajectory command used to demonstrate tracking performance.
