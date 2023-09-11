@@ -6,7 +6,8 @@ The programs above are in three Matlab .m files, i.e.
 
 - simulate_algorithm.m
 - adaptive_algorithm.m
-- simu_plot.m
+- simu_plot.m \
+\
 ⚠️ Save the A and B matrix of the UAV in `data.mat` as `A_LONG` and `B_LONG` respectively.\
 \
 In the Matlab environment, type the following command at the command window.
